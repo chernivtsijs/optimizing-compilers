@@ -1,3 +1,5 @@
 # Optimizing Compilers
 
-Talk on optimizing compilers and code transformation by @roman01la
+> [**ChernivtsiJS #3**](http://chernivtsi.js.org/), June 10, 2017
+
+Slides for the talk “Optimizing compilers and code transformation”.
